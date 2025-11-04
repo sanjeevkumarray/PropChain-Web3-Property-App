@@ -45,11 +45,11 @@ This starts both:
 
 ```
 propchain/
-â”œâ”€â”€ src/          # React frontend
-â”œâ”€â”€ server/       # Express backend
-â””â”€â”€ package.json  # Root package.json
+├── src/          # React frontend
+├── server/       # Express backend
+└── package.json  # Root package.json
 ```
 
 ---
 
-**That's it! Happy coding! ðŸš€**
+**That's it! Happy coding! 🚀**
